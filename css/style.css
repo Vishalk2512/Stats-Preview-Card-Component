@@ -85,7 +85,7 @@ span {
 .card-stat + .card-stat {
     margin-top: 1.5em;
 }
-.card-stat h3 {
+.card-stat h2 {
     color: var(--white);
     font-size: 1.2rem;
 }
